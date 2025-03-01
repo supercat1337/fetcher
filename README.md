@@ -152,4 +152,6 @@ fetcher_test_button_3.addEventListener("click", async () => {
 });
 ```
 
-Note: This is just a sample description, you may want to add more details or examples depending on your specific use case.
+**License**
+
+This project is licensed under the MIT License. 
